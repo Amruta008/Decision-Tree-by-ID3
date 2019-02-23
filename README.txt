@@ -1,5 +1,4 @@
 NAME: Amruta Desai
-ID: 1001653925
 
 ----------------------------Implementation of Decision Tree using ID3 algorithm-------------------------------
 >> Code is tested on Iris, House-votes-84 and Tic-tac-toe dataset from http://archive.ics.uci.edu
